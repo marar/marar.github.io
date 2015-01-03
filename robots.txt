@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://marar.github.io/sitemap.xml 
